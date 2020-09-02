@@ -1,0 +1,28 @@
+item {
+  id: 1
+  name: 'Leaf miner damage'
+}
+item {
+  id: 2
+  name: 'Bacterial Damage'
+}
+item {
+  id: 3
+  name: 'Septoria leaf spot'
+}
+item {
+  id: 4
+  name: 'Bacterial leaf spot'
+}
+
+
+
+
+
+
+
+
+
+
+
+
